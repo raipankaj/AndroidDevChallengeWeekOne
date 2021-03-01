@@ -12,7 +12,9 @@ A sample app to demonstrate how to create android app with jetpack compose. This
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
-![]("/results/demo.gif")
+<br>
+![Alt Text](https://github.com/raipankaj/AndroidDevChallengeWeekOne/blob/main/results/demo.gif)
+
 
 ## License
 ```
